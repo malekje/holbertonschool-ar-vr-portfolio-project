@@ -31,6 +31,6 @@ And Many Different soundtracks and sound effects from youtube and https://www.my
 - More Progressive Gameplay.
 - Multiplayer.
 
-# Hope you Enjoy this demo project im looking forward to make it more appealing to kids so they can play it and learn beautiful stuff from it
+### Hope you Enjoy this demo project im looking forward to make it more appealing to kids so they can play it and learn beautiful stuff from it
 # Author
 [Malek Mayeh](https://github.com/malekje)
